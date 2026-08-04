@@ -57,7 +57,7 @@ text
 1. Clone this repository:
 
 bash
-git clone https://github.com/harekrishna10/DA-Tasks/tree/main```
+git clone https://github.com/harekrishna10/DA-Tasks/tree/main
 
 2. Install required libraries:
 
